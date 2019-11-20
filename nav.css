@@ -1,16 +1,5 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: white;
-}
-
-h1 {
-text-overflow: clip;
-text-decoration: overline;
-text-align: justify;
-  color: black;
-}
-p {
-  color: black;
 }
 
 .navbar {
